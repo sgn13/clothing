@@ -443,7 +443,9 @@ table {
   display: flex;
   flex-wrap: wrap;
 }
-
+.cart-icon {
+  color: white !important;
+}
 th {
   text-align: left;
   padding: 5px;
